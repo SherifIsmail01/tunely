@@ -1,0 +1,27 @@
+{
+  "name": "tunely",
+  "version": "1.0.0",
+  "description": "App for tracking music collection",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SherifIsmail01/tunely.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SherifIsmail01/tunely/issues"
+  },
+  "homepage": "https://github.com/SherifIsmail01/tunely#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.7"
+  }
+}
